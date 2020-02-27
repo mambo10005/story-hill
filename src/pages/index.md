@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 이야기 고개
-image: /img/hills.jpg
+image: /img/hill.png
 heading: 이야기 고개
 subheading: 이것 저것 다양한 이야기들
 mainpitch:
