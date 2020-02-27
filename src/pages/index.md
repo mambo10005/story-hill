@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: 이야기 고개
-image: /img/home-jumbotron.jpg
+image: /img/hill.png
 heading: 이야기 고개
-subheading: 다양한 이야기들을 적어 봅니다.
+subheading: 이것 저것 다양한 이야기들
 mainpitch:
   title: Why Story-hill
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
