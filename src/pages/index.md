@@ -2,20 +2,12 @@
 templateKey: index-page
 title: 이야기 고개
 image: /img/hill.png
-heading: 이야기 고개
+heading: 고개 입구
 subheading: 이것 저것 다양한 이야기들
 mainpitch:
-  title: Why Story-hill
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: 이야기?
+  description: '필요한 대로, 마음 가는 대로  주제에 관계없이 이야기들을 적도록 하겠습니다. '
+description: 자 이제 올라가 볼까...
 intro:
   blurbs:
     - image: /img/coffee.png
